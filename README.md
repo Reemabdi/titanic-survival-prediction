@@ -55,8 +55,10 @@ jupyter notebook titanic-survival-prediction.ipynb
 ## Visualizations
 
 **Survival Rate by Gender**
-![Survival by Gender](images/survival_by_gender.png)
+![Survival Rate by Gender](Images/survival_by_gender.png)
+
 
 **Age Distribution by Survival**
-![Age Distribution](images/age_distribution.png)
+![Age Distribution by Survival](Images/age_distribution.png)
+
 
