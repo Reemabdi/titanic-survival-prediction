@@ -47,3 +47,16 @@ Dataset is available on Kaggle:
    ```bash
    git clone https://github.com/<your-username>/titanic-survival-prediction.git
    cd titanic-survival-prediction
+
+pip install pandas numpy scikit-learn matplotlib seaborn
+jupyter notebook titanic-survival-prediction.ipynb
+
+
+## Visualizations
+
+**Survival Rate by Gender**
+![Survival by Gender](images/survival_by_gender.png)
+
+**Age Distribution by Survival**
+![Age Distribution](images/age_distribution.png)
+
